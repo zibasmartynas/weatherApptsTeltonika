@@ -35,7 +35,7 @@ Clone the repository
 
 `git clone https://github.com/zibasmartynas/weatherApptsTeltonika.git`
 
-`cd vue-weather-app`
+`cd vue_weather_ts`
 
 Install dependencies
 
