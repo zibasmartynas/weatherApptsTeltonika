@@ -33,7 +33,7 @@ You can run the app locally to see it in action.
 
 Clone the repository
 
-`git clone https://github.com/zibasmartynas/vue-weather-app.git`
+`git clone https://github.com/zibasmartynas/weatherApptsTeltonika.git`
 
 `cd vue-weather-app`
 
